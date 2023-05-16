@@ -2,4 +2,5 @@
 
 print("Hello World from App2")
 print("URL: astahov.net")
+print("Owner is Denis Astahov")
 
